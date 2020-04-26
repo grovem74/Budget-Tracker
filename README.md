@@ -7,9 +7,9 @@ Email: matthewg74@gmail.com<br>
 
 ![Project Status](https://img.shields.io/badge/status-complete-green)&nbsp;      
 
-![Budget tracker1](public/images/1.png)
-![Budget tracker2](public/images/2.png)
-![Budget tracker3](public/images/3.png)
+![Budget tracker1](public/images/1.PNG)
+![Budget tracker2](public/images/2.PNG)
+![Budget tracker3](public/images/3.PNG)
 
 ### Project Description
 The Budget Tracker app allows a user to record transactions online or offline.
